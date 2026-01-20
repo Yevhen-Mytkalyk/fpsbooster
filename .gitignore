@@ -6,7 +6,6 @@ __pycache__/
 .Python
 build/
 develop-eggs/
-dist/
 downloads/
 eggs/
 .eggs/
@@ -40,4 +39,3 @@ Thumbs.db
 # Project specific
 virus #1/
 *.spec
-main.exe
